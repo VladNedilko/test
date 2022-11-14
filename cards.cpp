@@ -23,6 +23,8 @@ int main()
         case 10:cout<<"Десятка";break;
         case 11:cout<<"Валет";break;
         case 12:cout<<"Дама";break;
+        case 13:cout<<"Король";break;
+        case 14:cout<<"Туз";break;
         default:cout<<"Input correct number";
         cout<<endl;
     }
